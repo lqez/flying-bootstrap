@@ -29,7 +29,8 @@ Author
 Disclaimer
 ----------
 
-Tested under Chrome 25 / Firefox 19 / Safari 6.
+- Tested under Chrome 25 / Firefox 19 / Safari 6.
+- Not tested on 'non-fluid' layout. (sorry, please send me a patch)
 
 
 License
