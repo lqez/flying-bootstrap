@@ -11,12 +11,18 @@ Screenshot
 ![Flying-bootstrap](https://raw.github.com/lqez/pastebin/master/img/flying-bootstrap.jpg "Screenshot of flying-bootstrap")
 
 
-Howto
------
+How-to
+------
 
  1. Clone or download flying-bootstrap.
  1. Put `fb.js` and `fb.css` into your html file. `fb.css` must be included after bootstrap css.
  1. Enjoy!
+
+
+Author
+------
+- Park Hyunwoo \<ez.amiryo at gmail.com\>
+- Thanks to Eunchong Yu \<kroisse at gmail.com\> for debugging css problem.
 
 
 Disclaimer
