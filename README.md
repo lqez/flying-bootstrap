@@ -15,8 +15,9 @@ How-to
 ------
 
  1. Clone or download flying-bootstrap.
- 1. Put `fb.js` and `fb.css` into your html file. `fb.css` must be included after bootstrap css.
- 1. Enjoy!
+ 2. Put `fb.js` and `fb.css` into your html file. `fb.css` must be included after bootstrap css.
+ 3. It'll be better to pull `btn-navbar` to left in navbar. 
+ 4. Enjoy!
 
 
 Author
