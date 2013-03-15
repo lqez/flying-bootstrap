@@ -14,7 +14,8 @@ Screenshot
 Howto
 -----
 
- 1. Clone or copy into your project.
+ 1. Clone or download flying-bootstrap.
+ 1. Put `fb.js` and `fb.css` into your html file. `fb.css` must be included after bootstrap css.
  1. Enjoy!
 
 
