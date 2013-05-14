@@ -30,7 +30,9 @@ Disclaimer
 ----------
 
 - Tested under Chrome 25 / Firefox 19 / Safari 6.
-- Not tested on 'non-fluid' layout. (sorry, please send me a patch)
+- Not tested on 'non-fluid' layout.
+- I knew this does not work very well. 
+- So, please test it and send me a patch :)
 
 
 License
